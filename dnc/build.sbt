@@ -6,3 +6,9 @@ lazy val root = (project in file("."))
   .settings(
     name := "dnc"
   )
+
+libraryDependencies ++= Seq(
+  "com.lihaoyi" %% "os-lib" % "0.9.1"
+)
+
+assembly / mainClass := Some("main")
