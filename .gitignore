@@ -1,6 +1,5 @@
+.bsp
 .idea
-dnc/.bsp
-dnc/.idea
-dnc/project/project
-dnc/project/target
-dnc/target
+project/project
+project/target
+target
