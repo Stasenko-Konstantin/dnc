@@ -1,5 +1,6 @@
-.bsp
-.idea
-project/project
-project/target
-target
+scala/.bsp
+scala/.idea
+scala/project/project
+scala/project/target
+scala/target
+racket/main.rkt~
