@@ -3,4 +3,5 @@ scala/.idea
 scala/project/project
 scala/project/target
 scala/target
-racket/main.rkt~
+rust/.idea
+rust/target
