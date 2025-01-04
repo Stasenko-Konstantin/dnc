@@ -8,8 +8,8 @@
 
     java -jar scala/dnc.jar
     
-## racket
+## rust
 
-![](img/скрин_racket.png)
+![](img/скрин_rust.png)
 
-    racket racket/main.rkt
+    cd rust && cargo run
