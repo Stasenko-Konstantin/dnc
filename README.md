@@ -6,7 +6,7 @@
 
 ![](img/скрин_scala.png)
 
-    java -jar scala/dnc.jar
+    cd scala && java -jar scala/dnc.jar
     
 ## rust
 
